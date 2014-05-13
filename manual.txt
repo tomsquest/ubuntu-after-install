@@ -1,0 +1,21 @@
+1. Configure the firewall with gufw.
+
+2. Other software
+
+Heroku        : https://toolbelt.heroku.com/
+Maven         : http://maven.apache.org/download.cgi
+Intellij Idea : https://www.jetbrains.com/idea/download/
+Calibre       : http://calibre-ebook.com/download_linux
+SpiderOak     : https://spideroak.com/opendownload/
+Dropbox       : https://www.dropbox.com/install?os=lnx
+
+Rvm : https://rvm.io/
+\curl -sSL https://get.rvm.io | bash -s stable --ruby
+rvm install 2.0.0
+rvm use 2.0.0 --default
+
+Nvm : https://github.com/creationix/nvm
+curl https://raw.githubusercontent.com/creationix/nvm/v0.7.0/install.sh | sh
+nvm ls-remote
+nvm install v0.11.12
+nvm alias default 0.11.12
