@@ -12,11 +12,11 @@ readarray packages < packages.txt
 sudo apt-get install ${packages[*]}
 
 echo "#### Configure grub to use console mode"
-sudo patch /etc/default/grub < grub-config.patch
+sudo patch -p0 < grub-config.patch
 sudo update-grub
 
 echo "#### Configure imwheel to start with X"
-sudo patch /etc/X11/imwheel/startup.conf < imwheel-config-start-with-Xsession.patch
+sudo patch -p0 < imwheel-config-start-with-Xsession.patch
 
 echo "#### Configure default Java"
 sudo update-java-alternatives -s java-8-oracle
