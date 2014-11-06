@@ -17,7 +17,6 @@ shutter
 git
 gitk
 gitg
-openjdk-7-jdk
 oracle-java8-installer
 smplayer
 gufw
@@ -26,4 +25,3 @@ synaptic
 libreoffice
 hunspell-fr
 libnotify-bin
-imwheel
