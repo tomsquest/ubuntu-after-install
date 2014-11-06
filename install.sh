@@ -15,9 +15,6 @@ echo "#### Configure grub to use console mode"
 sudo patch -p0 < grub-config.patch
 sudo update-grub
 
-echo "#### Configure imwheel to start with X"
-sudo patch -p0 < imwheel-config-start-with-Xsession.patch
-
 echo "#### Configure default Java"
 sudo update-java-alternatives -s java-8-oracle
 
