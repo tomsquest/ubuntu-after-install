@@ -1,3 +1,4 @@
 ppa:git-core/ppa
 ppa:libreoffice/ppa
 ppa:webupd8team/java
+ppa:ansible/ansible
