@@ -10,7 +10,6 @@ wmctrl
 xdotool
 vim-gtk
 radiotray
-alarm-clock-applet
 clipit
 meld
 shutter
