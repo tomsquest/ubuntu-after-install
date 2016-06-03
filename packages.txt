@@ -24,4 +24,5 @@ synaptic
 libreoffice
 hunspell-fr
 libnotify-bin
+gnupg2
 ansible
