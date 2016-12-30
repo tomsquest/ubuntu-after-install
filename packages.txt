@@ -27,6 +27,8 @@ hunspell-fr
 gnupg2
 ssh-askpass
 openjdk-8-jdk
+openjdk-8-src
+openjdk-8-doc
 file-roller
 albert
 tor-browser
