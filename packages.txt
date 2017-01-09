@@ -33,6 +33,7 @@ openjdk-8-doc
 file-roller
 albert
 tor-browser
+gnome-icon-theme
 faenza-icon-theme
 software-properties-common
 fonts-dejavu
