@@ -15,8 +15,5 @@ echo "#### Configure grub to use console mode"
 sudo patch -p0 < grub-config.patch
 sudo update-grub
 
-echo "#### Configure default Java"
-sudo update-java-alternatives -s java-8-oracle
-
 echo "#### Now, you should run these parts manually:"
 cat manual.txt
