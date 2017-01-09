@@ -1,5 +1,5 @@
 ppa:git-core/ppa
 ppa:libreoffice/ppa
 ppa:webupd8team/java
-ppa:nilarimogard/webupd8team
+ppa:nilarimogard/webupd8
 ppa:webupd8team/tor-browser
