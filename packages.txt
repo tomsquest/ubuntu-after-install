@@ -3,6 +3,7 @@ wget
 tree
 tmux
 atool
+unzip
 htop
 ack-grep
 zsh
@@ -27,8 +28,19 @@ hunspell-fr
 gnupg2
 ssh-askpass
 openjdk-8-jdk
-openjdk-8-src
+openjdk-8-source
 openjdk-8-doc
 file-roller
 albert
 tor-browser
+faenza-icon-theme
+software-properties-common
+fonts-dejavu
+numix-gtk-theme
+openvpn
+network-manager-openvpn
+apt-transport-https ca-certificates
+chromium-browser
+unattended-upgrades
+light-locker
+lightdm
