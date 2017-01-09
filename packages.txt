@@ -37,6 +37,7 @@ gnome-icon-theme
 faenza-icon-theme
 software-properties-common
 fonts-dejavu
+fonts-lato
 numix-gtk-theme
 openvpn
 network-manager-openvpn
