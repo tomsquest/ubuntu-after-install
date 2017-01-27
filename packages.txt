@@ -46,3 +46,4 @@ chromium-browser
 unattended-upgrades
 light-locker
 lightdm
+transmission
