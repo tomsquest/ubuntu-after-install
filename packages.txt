@@ -41,7 +41,8 @@ numix-gtk-theme
 numix-icon-theme
 openvpn
 network-manager-openvpn
-apt-transport-https ca-certificates
+apt-transport-https
+ca-certificates
 chromium-browser
 unattended-upgrades
 light-locker
