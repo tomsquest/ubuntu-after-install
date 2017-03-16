@@ -6,6 +6,7 @@ ca-certificates
 chromium-browser
 clipit
 curl
+evince
 file-roller
 fonts-dejavu
 fonts-lato
@@ -22,13 +23,15 @@ libreoffice-writer
 lightdm
 light-locker
 meld
-network-manager-openvpn
+network-manager
+network-manager-openvpn-gnome
 numix-gtk-theme
 numix-icon-theme
 openjdk-8-doc
 openjdk-8-jdk
 openjdk-8-source
 openvpn
+pinentry-gtk2
 radiotray
 safe-rm
 shutter
@@ -44,6 +47,7 @@ ufw
 unattended-upgrades
 unzip
 vim-gtk
+vlc-nox
 wget
 wmctrl
 xdotool
