@@ -11,9 +11,5 @@ declare -a packages
 readarray packages < packages.txt
 sudo apt-get install --yes ${packages[*]}
 
-echo "#### Configure grub to use console mode"
-sudo patch -p0 < grub-config.patch
-sudo update-grub
-
 echo "#### Now, you should run these parts manually:"
 cat manual.txt
