@@ -47,7 +47,7 @@ ufw
 unattended-upgrades
 unzip
 vim-gtk
-vlc-nox
+vlc
 wget
 wmctrl
 xdotool
