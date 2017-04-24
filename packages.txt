@@ -1,4 +1,5 @@
 ack-grep
+alarm-clock-applet
 albert
 apt-transport-https
 atool
