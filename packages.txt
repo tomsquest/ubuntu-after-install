@@ -52,4 +52,5 @@ vlc-nox
 wget
 wmctrl
 xdotool
+xfce4-notify4d
 zsh
