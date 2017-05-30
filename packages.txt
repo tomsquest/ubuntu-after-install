@@ -40,6 +40,7 @@ smplayer
 software-properties-common
 ssh-askpass
 synaptic
+terminator
 tmux
 tor-browser
 transmission
