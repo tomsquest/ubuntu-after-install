@@ -17,6 +17,7 @@ gitk
 gnome-icon-theme
 gnupg2
 htop
+httpie
 hunspell-fr
 libnotify-bin
 libreoffice-calc
@@ -39,6 +40,7 @@ shutter
 smplayer
 software-properties-common
 ssh-askpass
+sshpass
 synaptic
 terminator
 tmux
