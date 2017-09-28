@@ -22,6 +22,7 @@ hunspell-fr
 libnotify-bin
 libreoffice-calc
 libreoffice-writer
+libreoffice-gtk3
 lightdm
 light-locker
 meld
